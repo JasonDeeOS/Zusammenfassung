@@ -117,7 +117,7 @@
 
 ### 3. Unterstützung und Weiterentwicklung der Teammitglieder
 
-- positives Feedback / konstruktive Kritik
+- positives [[Feedback]] / konstruktive Kritik
 - fachliche Unterstützung / Soft-Skills
 
 ### 4. disziplinarische Führung

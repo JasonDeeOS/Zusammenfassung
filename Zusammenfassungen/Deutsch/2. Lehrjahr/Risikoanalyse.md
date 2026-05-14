@@ -62,7 +62,7 @@
 ### Umwelt-Risiken
 
 - durch Umweltbedingungen ausgelöst
-- Stakeholder wurden nicht einbezogen
+- [[Stakeholder]] wurden nicht einbezogen
 
 ## Risikobewertung
 

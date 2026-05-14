@@ -7,4 +7,4 @@
 - Komplexität
 - Aufwand
 - fachübergreifender Charakter
-- Teamarbeit
+- [[Teamarbeit]]

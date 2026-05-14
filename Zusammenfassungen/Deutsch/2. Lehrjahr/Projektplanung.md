@@ -11,10 +11,10 @@
 ### 7 Schritte
 
 1. Identifikation der Arbeitspakete
-2. Projektstrukturplan
+2. [[Projektstrukturplan]]
 3. Termin- und Ablaufplan
 4. Kapazitätsplan
 5. Kostenplan
 6. Qualitätsplan
-7. Risikoanalyse
+7. [[Risikoanalyse]]
 
