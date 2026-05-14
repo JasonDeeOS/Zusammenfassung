@@ -4,193 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "837d3a55633bc4f0",
+        "id": "719cbae6f01b9c3a",
         "type": "tabs",
         "children": [
           {
-            "id": "87b4cf6ddbf066c2",
+            "id": "a46e9a65fee04f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/8. Nutzwertanalyse.md",
+                "file": "6. Föderalismus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Nutzwertanalyse"
-            }
-          },
-          {
-            "id": "d19bbc67339b36f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/9. Zuschlagskalkulation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Zuschlagskalkulation"
-            }
-          },
-          {
-            "id": "de1e1466caccb996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/10. Handelskalkulation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Handelskalkulation"
-            }
-          },
-          {
-            "id": "043d133b2ed2ad31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/11. Kooperation, Konzentration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. Kooperation, Konzentration"
-            }
-          },
-          {
-            "id": "34d6c5886f4bc0a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zusammenfassungen/PuG/1. Lehrjahr/1. Die Duale Berufsausbildung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Die Duale Berufsausbildung"
-            }
-          },
-          {
-            "id": "644895385ace5d4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zusammenfassungen/PuG/1. Lehrjahr/2. Ausbildungsvertrag und BBiG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Ausbildungsvertrag und BBiG"
-            }
-          },
-          {
-            "id": "15498a240ca5ad10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zusammenfassungen/PuG/1. Lehrjahr/3. Jugendarbeitsschutzgesetz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Jugendarbeitsschutzgesetz"
-            }
-          },
-          {
-            "id": "5f74ca7e6f0cb823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zusammenfassungen/PuG/1. Lehrjahr/4. Arbeitsvertrag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Arbeitsvertrag"
-            }
-          },
-          {
-            "id": "8b437be481b779a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zusammenfassungen/PuG/1. Lehrjahr/5. Probezeit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Probezeit"
-            }
-          },
-          {
-            "id": "a12ae75c0b770c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zusammenfassungen/PuG/1. Lehrjahr/6. Arbeitszeit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Arbeitszeit"
-            }
-          },
-          {
-            "id": "4e449306ea0194e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zusammenfassungen/PuG/1. Lehrjahr/7. Kündigung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Kündigung"
-            }
-          },
-          {
-            "id": "0d38e2beeed418e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zusammenfassungen/PuG/1. Lehrjahr/8. Mitbestimmung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Mitbestimmung"
-            }
-          },
-          {
-            "id": "ee52490f8cf6bd62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zusammenfassungen/PuG/1. Lehrjahr/9. Sozial Grundsicherung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Sozial Grundsicherung"
+              "title": "6. Föderalismus"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -365,10 +196,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6689cab8f7f00a17",
+  "active": "a46e9a65fee04f25",
   "lastOpenFiles": [
-    "Zusammenfassungen/PuG/1. Lehrjahr/8. Mitbestimmung.md",
+    "Zusammenfassungen/PuG/Attachments/Bundesländer.png",
+    "6. Föderalismus.md",
+    "Zusammenfassungen/PuG/2. Lehrjahr/5. Politische Partizipation.md",
+    "Zusammenfassungen/PuG/2. Lehrjahr/4. Verfassungsprinzipien.md",
+    "Zusammenfassungen/BGWP/2. Lehrjahr/1. EPK Ereignisgesteuerte Prozessketten.md",
+    "Zusammenfassungen/PuG/2. Lehrjahr/3. Sicherung und Schutz der Grundrechte.md",
+    "Zusammenfassungen/PuG/2. Lehrjahr/2. Grundrechte.md",
+    "Zusammenfassungen/PuG/2. Lehrjahr/1. Die Bedeutung des Staates.md",
     "Zusammenfassungen/PuG/1. Lehrjahr/9. Sozial Grundsicherung.md",
+    "Zusammenfassungen/PuG/1. Lehrjahr/8. Mitbestimmung.md",
     "Zusammenfassungen/PuG/1. Lehrjahr/7. Kündigung.md",
     "Zusammenfassungen/PuG/1. Lehrjahr/6. Arbeitszeit.md",
     "Zusammenfassungen/PuG/1. Lehrjahr/5. Probezeit.md",
@@ -385,15 +224,7 @@
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/6. Angebotsvergleich.md",
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/5. Anfrage, Angebot.md",
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/4. Optimale Bestellmenge.md",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/3. Beschaffungsmarktforschung.md",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/2. Beschaffung.md",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/1. Preisbildung.md",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Hardware/19. Grafikkarte.md",
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/GPU-Aufbau.png",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Hardware/18. Monitor.md",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Hardware/17. Netzteil.md",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Hardware/16. Speicherberechnung.md",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Hardware/15. SSHD.md",
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/SSHD-Aufbau.png",
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/SSD-Aufbau.png",
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/HDD.png",
@@ -406,7 +237,6 @@
     "Learning Assistent Content/Zusammenfassungen/BGWP/Attachments",
     "Untitled.canvas",
     "Untitled.base",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/RAID 01.png",
     "Learning Assistent/PRD 1/Prompts",
     "Learning Assistent/PRD 1",
     "Learning Assistent Content/Zusammenfassungen/AEUP/Attachments",
