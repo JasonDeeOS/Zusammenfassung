@@ -1,0 +1,85 @@
+## Ursache
+
+- existierende Umstände
+- eintretende Ereignisse
+
+## Risiko
+
+- Ereignis mit negativer Auswirkung
+- Eintreten ungeplanter Ereignisse
+- Nichteintreten geplanter Ereignisse
+- Negative Abweichung
+- Ereignis/Umstand der mit gewissen Wahrscheinlichkeit eintritt
+
+## Auswirkung
+
+- wenn Risiko eintritt
+- Abweichung von Zielen
+- verursachen von Schaden
+
+## Nicht verwechseln
+
+- Ressourcenmangel, veraltete IT-Landschaft, Budgetknappheit, wechselhafte Witterungsbedingungen
+	- sind keine Risiken, sondern Ursachen, die zum Eintritt von Risiken führen
+
+## Warum ist Risikomanagement wichtig?
+
+- Schaden reduzieren
+- Problem reduzieren/vermeiden
+- schnelle Reaktion auf Problem
+- Vermeidung von Kosten und Terminüberschreitung
+- Projektziel durch den Einsatz geeigneter Maßnahmen erreichen
+
+## Wer ist verantwortlich?
+
+- Projektleiter oder QM
+
+## Wie erkennt man Risiken?
+
+- Mitarbeiterbefragung
+- Doku / Unterlagen
+- Rechtsnormenanalyse
+- Expertenbefragung
+- Stakeholderrisiken (z.B. Lieferketten)
+
+## Klassifikationen
+
+### externe Risiken
+
+- Wirken von außen auf das Projekt
+- außerhalb des Einflusses des Teams
+
+### interne Risiken
+
+- Beeinflusst durch das Team
+
+### fachliche, kaufmännische, planerische Risiken
+
+- fachliche; aus Arbeitspaketen/Ergebnissen
+- kaufmännische; Aufbrauchen des Budgets, Zahlungsbereitschaft, Kredite
+- planerische; Fehler in der Planung
+
+### Umwelt-Risiken
+
+- durch Umweltbedingungen ausgelöst
+- Stakeholder wurden nicht einbezogen
+
+## Risikobewertung
+
+- anhand Eintrittswahrscheinlichkeit / Tragweite
+
+### Tragweiten
+
+1. zu vernachlässigen
+2. unkritisch
+3. zu teilen kritisch
+4. kritisch
+5. projektgefährdend
+
+## Maßnahmen
+
+![[Pasted image 20260207234304.png]]
+
+## Sammlung in einer Liste
+
+![[Pasted image 20260207234336.png]]
