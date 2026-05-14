@@ -15,7 +15,7 @@
 
 ### Aufgaben
 
-- Abstimmung der Projektziele
+- Abstimmung der [[Projektziele]]
 - Zusammenstellung des Projektteams
 - Organisation der Infrastruktur
 - Kontakt zum Auftraggeber

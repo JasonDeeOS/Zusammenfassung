@@ -14,7 +14,7 @@
 
 - Sprint Planning; Ziel -> Sprint Goal
 - Daily Scrum; tägl. 15-min-meeting
-- Sprint Review; Präsentation für Feedback von Stakeholdern
+- Sprint Review; Präsentation für [[Feedback]] von Stakeholdern
 - Sprint Retrospective; Reflexion durch Scrum Master
 
 ## Zyklus

@@ -2,16 +2,16 @@
 
 - Problemanalyse
 - Entscheidung zur Projektdurchführung
-- Klärung der Projektziele
+- Klärung der [[Projektziele]]
 - Projektauftrag
 - Projektorganisation
 - Kick-Off-Meeting
 - Lasten-/Pflichtenheft
 
-## 2. Projektplanung
+## 2. [[Projektplanung]]
 
 - Identifizierung der Arbeitspakete
-- Projektstrukturplan
+- [[Projektstrukturplan]]
 - Projektablaufplan
 - Kapazitätsplan
 - Kostenplan

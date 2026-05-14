@@ -14,6 +14,6 @@
 14. hochdeutsche Ausdrucksweise
 15. ansprechende äußere Erscheinung des Refernten
 16. Gestik + Mimik wirken sicher/offen
-17. ansprechende und anschauliche Visualisierung
+17. ansprechende und anschauliche [[Visualisierung]]
 18. inhaltliche Richtigkeit/Klarheit
 19. Orientierung an der Zuhörerschaft
