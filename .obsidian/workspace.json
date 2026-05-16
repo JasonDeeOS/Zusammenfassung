@@ -11,17 +11,44 @@
             "id": "a46e9a65fee04f25",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Zusammenfassungen/PuG/Attachments/Bundesländer.png"
+              },
+              "icon": "lucide-image",
+              "title": "Bundesländer"
+            }
+          },
+          {
+            "id": "f7ab235a1d7ef7a0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/7. Kaufvertrag.md",
+                "file": "Zusammenfassungen/BGWP/2. Lehrjahr/2. Servicearten SuS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Kaufvertrag"
+              "title": "2. Servicearten SuS"
+            }
+          },
+          {
+            "id": "0c4c63f3a5e8ca15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zusammenfassungen/BGWP/2. Lehrjahr/3. rechtliche Anforderungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. rechtliche Anforderungen"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ca66d05d699fcdc",
@@ -185,6 +213,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "marp:Marp: Open Preview": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -196,8 +225,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a46e9a65fee04f25",
+  "active": "0c4c63f3a5e8ca15",
   "lastOpenFiles": [
+    "Zusammenfassungen/BGWP/Attachments/Servicebereich.png",
+    "Zusammenfassungen/BGWP/2. Lehrjahr/3. rechtliche Anforderungen.md",
+    "Zusammenfassungen/BGWP/2. Lehrjahr/2. Servicearten SuS.md",
+    "Zusammenfassungen/BGWP/Attachments/IMAC R D Zyklus.png",
+    "Zusammenfassungen/PuG/Attachments/Bundesländer.png",
+    "Zusammenfassungen/PuG/2. Lehrjahr/6. Föderalismus.md",
+    "Zusammenfassungen/PuG/2. Lehrjahr/5. Politische Partizipation.md",
+    "Zusammenfassungen/PuG/2. Lehrjahr/5. Politische Partizipation 1.md",
+    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/7. Kaufvertrag.md",
     "Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/5. Anfrage, Angebot.md",
     "Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/1. Preisbildung.md",
     "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/18. Firewall.md",
@@ -211,20 +249,12 @@
     "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/4. Lichtwellenleiter.md",
     "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/2. Strukturierte Verkabelung.md",
     "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/1. TP-Kabel.md",
-    "Zusammenfassungen/PuG/2. Lehrjahr/6. Föderalismus.md",
-    "Zusammenfassungen/PuG/2. Lehrjahr/5. Politische Partizipation.md",
-    "Zusammenfassungen/PuG/Attachments/Bundesländer.png",
     "Zusammenfassungen/PuG/2. Lehrjahr/4. Verfassungsprinzipien.md",
     "Zusammenfassungen/BGWP/2. Lehrjahr/1. EPK Ereignisgesteuerte Prozessketten.md",
     "Zusammenfassungen/PuG/2. Lehrjahr/3. Sicherung und Schutz der Grundrechte.md",
     "Zusammenfassungen/PuG/2. Lehrjahr/2. Grundrechte.md",
     "Zusammenfassungen/PuG/2. Lehrjahr/1. Die Bedeutung des Staates.md",
     "Zusammenfassungen/PuG/1. Lehrjahr/9. Sozial Grundsicherung.md",
-    "Zusammenfassungen/PuG/1. Lehrjahr/8. Mitbestimmung.md",
-    "Zusammenfassungen/PuG/1. Lehrjahr/7. Kündigung.md",
-    "Zusammenfassungen/PuG/1. Lehrjahr/6. Arbeitszeit.md",
-    "Zusammenfassungen/PuG/1. Lehrjahr/5. Probezeit.md",
-    "Zusammenfassungen/PuG/1. Lehrjahr/4. Arbeitsvertrag.md",
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/GPU-Aufbau.png",
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/SSHD-Aufbau.png",
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/SSD-Aufbau.png",
@@ -233,8 +263,6 @@
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/Ergonomie am Arbeitsplatz.png",
     "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/USBPorts.png",
     "Learning Assistent Content/Zusammenfassungen/BGWP/Attachments/EPK-Blöcke.png",
-    "Learning Assistent Content/Zusammenfassungen/BGWP/Attachments/Harte&WeicheFaktoren.png",
-    "Learning Assistent Content/Zusammenfassungen/BGWP/Attachments/Bedürfnispyramide.png",
     "Learning Assistent Content/Zusammenfassungen/BGWP/Attachments",
     "Untitled.canvas",
     "Untitled.base",
