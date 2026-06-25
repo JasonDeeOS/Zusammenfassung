@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "e6a04f96306a3669",
+    "type": "split",
+    "children": [
+      {
+        "id": "719cbae6f01b9c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a46e9a65fee04f25",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Zusammenfassungen/PuG/Attachments/Bundesländer.png"
+              },
+              "icon": "lucide-image",
+              "title": "Bundesländer"
+            }
+          },
+          {
+            "id": "f7ab235a1d7ef7a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/10. Bewegungsmelder (BWM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Bewegungsmelder (BWM)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0841271340f07afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "85e6e6bf974b2c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6689cab8f7f00a17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "d7f9a2648d253f06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "c8b11ca12faa4219",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9ca66d05d699fcdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc9c3aba0431cdc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "881aeec208662a7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "9c13e94f2391f2bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/PRD/PRD-Template-Flutter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PRD-Template-Flutter"
+            }
+          },
+          {
+            "id": "c7c22c049137ca4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e556bfcc2ba94619",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a684798736b5fc40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "e1ab0fe5cabdb737",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "marp:Marp: Open Preview": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f7ab235a1d7ef7a0",
+  "lastOpenFiles": [
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/9. Python.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/10. Bewegungsmelder (BWM).md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/1. Raspberry Pi.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/8. RGB-LED mit Node-RED.md",
+    "Zusammenfassungen/IT-TEC/Attachments/PWM.png",
+    "Zusammenfassungen/IT-TEC/Attachments/NODEREDTRIGGER.png",
+    "Zusammenfassungen/IT-TEC/Attachments/NodeREDGPIO.png",
+    "Zusammenfassungen/IT-TEC/Attachments/NodeRedSwitch1.png",
+    "Zusammenfassungen/IT-TEC/Attachments/NodeRedLEDSchema.png",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/7. Breadboard.md",
+    "Zusammenfassungen/IT-TEC/Attachments/LED Fluss.png",
+    "Zusammenfassungen/IT-TEC/Attachments/LED Hardware.png",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/6. Die RGB-LED.md",
+    "Zusammenfassungen/IT-TEC/Attachments/LED 1.png",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/5. Linux Zugriffsrechte.md",
+    "Zusammenfassungen/IT-TEC/Attachments/Zugriffsrechte numerischer Modus.png",
+    "Zusammenfassungen/IT-TEC/Attachments/Ändern der Zugriffsrechte.png",
+    "Verzeichnis.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/4. Die Konsole.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/3. RGB-LED.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/2. Linux.md",
+    "Zusammenfassungen/BGWP/2. Lehrjahr/2. Servicearten SuS.md",
+    "Obsidian und Git auf Android einrichten.md",
+    "Zusammenfassungen/BGWP/2. Lehrjahr/3. rechtliche Anforderungen.md",
+    "Zusammenfassungen/PuG/2. Lehrjahr/6. Föderalismus.md",
+    "Zusammenfassungen/PuG/2. Lehrjahr/5. Politische Partizipation.md",
+    "Zusammenfassungen/PuG/2. Lehrjahr/5. Politische Partizipation 1.md",
+    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/7. Kaufvertrag.md",
+    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/5. Anfrage, Angebot.md",
+    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/1. Preisbildung.md",
+    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/18. Firewall.md",
+    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/17. Sturkturanalyse.md",
+    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/15. RAID.md",
+    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/8. 8 Gebote des Datenschutzes.md",
+    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/7. Anforderung an Daten.md",
+    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/6. Kritis.md",
+    "Unbenannt",
+    "Learning Assistent Content/Zusammenfassungen/BGWP/Attachments",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Learning Assistent/PRD 1/Prompts",
+    "Learning Assistent/PRD 1",
+    "Learning Assistent Content/Zusammenfassungen/AEUP/Attachments",
+    "Learning Assistent Content/Zusammenfassungen/AEUP/2. Lehrjahr",
+    "Learning Assistent Content/Zusammenfassungen/AEUP/1. Lehrjahr",
+    "Learning Assistent Content/Zusammenfassungen/AEUP",
+    "Learning Assistent Content/Zusammenfassungen/PuG/Attachments"
+  ]
+}
