@@ -11,12 +11,14 @@
             "id": "f7ab235a1d7ef7a0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Zusammenfassungen/AEUP/Attachments/Pasted image 20260920150350.png"
+                "file": "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/10. Komposition.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260920150350"
+              "icon": "lucide-file",
+              "title": "10. Komposition"
             }
           }
         ]
@@ -195,25 +197,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6689cab8f7f00a17",
+  "active": "f7ab235a1d7ef7a0",
   "lastOpenFiles": [
+    "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/9. Aggregation.md",
+    "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/8. Assoziation.md",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922143007.png",
+    "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/10. Komposition.md",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922145556.png",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922145243.png",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922144707.png",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922144452.png",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922144354.png",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922143419.png",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922143037.png",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/7. Instanz.md",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260920150537.png",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260920150435.png",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260920150350.png",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260920145515.png",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/6. Initialwerte und Zusicherungen.md",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260920150236.png",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/5. Datenkapselung.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/4. Klasse.md",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260920144406.png",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260920145002.png",
-    "Zusammenfassungen/AEUP/Attachments/Beispiel Objekte Beziehungen.png",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260920144646.png",
-    "Zusammenfassungen/AEUP/Attachments/Beispiel Objekt Sensor 1 mit Werten.png",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/3. Darstellung von Objekten in UML.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/2. Objektbegriff.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/1. Einführung.md",
+    "Zusammenfassungen/BGWP/1. Lehrjahr/1. Bedürfnis-Bedarf-Nachfrage.md",
+    "Zusammenfassungen/AEUP/Attachments/Beispiel Objektname.png",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260920150350.png",
     "Zusammenfassungen/Deutsch/1. Lehrjahr/5. Das Handout.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey",
     "Zusammenfassungen/IT-Projekt/3. Lehrjahr",
@@ -234,10 +240,6 @@
     "Zusammenfassungen/Deutsch/1. Lehrjahr/1. ALPEN-Methode.md",
     "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/15. Temperatur auslesen und am LCD anzeigen (Sketch).md",
     "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/14. Temperatur auslesen und anzeigen.md",
-    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/13. Anzeige am LCD (Sketch).md",
-    "Zusammenfassungen/Deutsch/2. Lehrjahr/14. Risikomanagement.md",
-    "Zusammenfassungen/Deutsch/2. Lehrjahr/13. Kostenplan.md",
-    "Zusammenfassungen/Deutsch/2. Lehrjahr/12. Ressourcenplanung.md",
     "Unbenannt",
     "Learning Assistent Content/Zusammenfassungen/BGWP/Attachments",
     "Untitled.canvas",
