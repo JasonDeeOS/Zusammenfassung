@@ -13,15 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/10. Komposition.md",
+                "file": "Zusammenfassungen/BGWP/2. Lehrjahr/1. EPK Ereignisgesteuerte Prozessketten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Komposition"
+              "title": "1. EPK Ereignisgesteuerte Prozessketten"
+            }
+          },
+          {
+            "id": "db1dac0cf0a6479b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Zusammenfassungen/PuG/Attachments/Pasted image 20261024090530.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20261024090530"
+            }
+          },
+          {
+            "id": "bf502b1241e00790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/Polymorphie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polymorphie"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,29 +224,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7ab235a1d7ef7a0",
+  "active": "bf502b1241e00790",
   "lastOpenFiles": [
+    "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/13. Vererbung.md",
+    "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/Polymorphie.md",
+    "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/5. Datenkapselung.md",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20261024092408.png",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20261024093453.png",
+    "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/12. Schnittstellenklassen (Interface).md",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20261024091739.png",
+    "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/11. Abstrakte Klassen.md",
+    "Zusammenfassungen/AEUP/Attachments/Pasted image 20261024091426.png",
+    "Zusammenfassungen/PuG/3. Lehrjahr/1. Bedürfnis-Bedarf-Nachfrage.md",
+    "Zusammenfassungen/PuG/3. Lehrjahr/2. Wirtschaftsordnung.md",
+    "Zusammenfassungen/PuG/Attachments/Pasted image 20261024090547.png",
+    "Zusammenfassungen/PuG/Attachments/Pasted image 20261024090530.png",
+    "Zusammenfassungen/BGWP/1. Lehrjahr/1. Bedürfnis-Bedarf-Nachfrage.md",
+    "Zusammenfassungen/FU-IT/1. Lehrjahr/1. Netzwerk.md",
+    "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/10. Komposition.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/9. Aggregation.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/8. Assoziation.md",
     "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922143007.png",
-    "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/10. Komposition.md",
     "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922145556.png",
     "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922145243.png",
     "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922144707.png",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922144452.png",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922144354.png",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922143419.png",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260922143037.png",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/7. Instanz.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/6. Initialwerte und Zusicherungen.md",
-    "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/5. Datenkapselung.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/4. Klasse.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/3. Darstellung von Objekten in UML.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/2. Objektbegriff.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey/1. Einführung.md",
-    "Zusammenfassungen/BGWP/1. Lehrjahr/1. Bedürfnis-Bedarf-Nachfrage.md",
-    "Zusammenfassungen/AEUP/Attachments/Beispiel Objektname.png",
-    "Zusammenfassungen/AEUP/Attachments/Pasted image 20260920150350.png",
     "Zusammenfassungen/Deutsch/1. Lehrjahr/5. Das Handout.md",
     "Zusammenfassungen/AEUP/3. Lehrjahr/UML Sauerbrey",
     "Zusammenfassungen/IT-Projekt/3. Lehrjahr",
@@ -234,12 +268,6 @@
     "Zusammenfassungen/Deutsch/1. Lehrjahr/8. Die 5 Axiome nach Watzlawick.md",
     "Zusammenfassungen/Deutsch/1. Lehrjahr/7. Sender-Empfänger-Modell.md",
     "Zusammenfassungen/Deutsch/1. Lehrjahr/6. Feedback.md",
-    "Zusammenfassungen/Deutsch/1. Lehrjahr/4. Einsatz von Medien.md",
-    "Zusammenfassungen/Deutsch/1. Lehrjahr/3. Aufbau einer Präsentation.md",
-    "Zusammenfassungen/Deutsch/1. Lehrjahr/2. Kriterien für eine gelungene Präsentation.md",
-    "Zusammenfassungen/Deutsch/1. Lehrjahr/1. ALPEN-Methode.md",
-    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/15. Temperatur auslesen und am LCD anzeigen (Sketch).md",
-    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/14. Temperatur auslesen und anzeigen.md",
     "Unbenannt",
     "Learning Assistent Content/Zusammenfassungen/BGWP/Attachments",
     "Untitled.canvas",
